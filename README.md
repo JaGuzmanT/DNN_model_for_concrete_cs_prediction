@@ -1,4 +1,4 @@
-<p align="center"> # 🔥 DNN_model_for_concrete_cs_prediction 🔥 </p> 
+<p align="center"> 🔥 DNN_model_for_concrete_cs_prediction 🔥 </p> 
 
 ![ ](nn.png) 
  
