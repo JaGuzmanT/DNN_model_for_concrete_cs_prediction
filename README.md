@@ -1,8 +1,8 @@
 # 🔥 DNN_model_for_concrete_cs_prediction 🔥
 
-<p align="center"> This repository contains a deep neural network model that is capable of predicting accurately the concrete compressive strength using destructive and non-destructive tests as features or regressors. The model was trained using the following main features. 👨🏻‍💻
+<p align="center"> This repository contains a deep neural network model that is capable of predicting accurately the concrete compressive strength using destructive and non-destructive tests as features or regressors. The model was trained using the following main features. 👨🏻‍💻 </p>
 
-Ultrasonic pulse velocity (UPV), Electrical resistivity (Er), Resonance frequency (FR), Tensile strength (Ts), and Compressive strength (CS). 👨🏻‍💻 </p>
+<p align="center"> Ultrasonic pulse velocity (UPV), Electrical resistivity (Er), Resonance frequency (FR), Tensile strength (Ts), and Compressive strength (CS). 👨🏻‍💻 </p>
 
 ## Description of the repository
 
